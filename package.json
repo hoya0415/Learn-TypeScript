@@ -1,0 +1,23 @@
+{
+  "name": "learn-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoya0415/Learn-TypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoya0415/Learn-TypeScript/issues"
+  },
+  "homepage": "https://github.com/hoya0415/Learn-TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
